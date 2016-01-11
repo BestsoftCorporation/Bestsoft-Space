@@ -594,6 +594,3 @@ void MainWindow::keyPressEvent ( QKeyEvent * event )
 
 
 }
-//QMessageBox msgBox;
-//msgBox.setText(qApp->applicationDirPath(););
-//msgBox.exec();
